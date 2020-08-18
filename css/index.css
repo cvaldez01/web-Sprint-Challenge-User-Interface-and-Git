@@ -294,5 +294,47 @@ nav .nav-a{
 .colab{
     margin-left:8%;
 }
+a{
+    text-decoration:none;
+    color:black;
+}
+a:hover{
+    background-color:gray;
+}
 
 /******ABOUT PAGE **********/
+.info{
+    border-bottom: 1px dashed black;
+    margin-top:1rem;
+    margin-bottom: 3rem;
+    padding-bottom:2rem;
+}
+
+.info h2{
+    margin-top:1rem;
+}
+.strategy{
+    border-bottom: 1px dashed black;
+    margin-top:1rem;
+    margin-bottom: 3rem;
+    padding-bottom:2rem;
+
+}
+.work{
+    border-bottom: 1px dashed black;
+    margin-top:1rem;
+    margin-bottom: 3rem;
+    padding-bottom:2rem;
+}
+.places{
+    border-bottom: 1px dashed black;
+    margin-top:1rem;
+    margin-bottom: 3rem;
+    padding-bottom:2rem;
+}
+.colab{
+    border-bottom: 1px dashed black;
+    margin-top:1rem;
+    margin-bottom: 3rem;
+    padding-bottom:2rem;
+}
